@@ -97,4 +97,4 @@ do {
   input = prompt("Введіть число");
   console.log(addNumbers(input));
 } while (input !== null);
-// :):):)
+// :):):) 
